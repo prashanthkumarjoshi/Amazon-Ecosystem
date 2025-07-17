@@ -4,7 +4,10 @@ Welcome to the GitHub repository for the **Amazon Sales SQL Project**. This proj
 
 ---
 
-<br> <img src="https://github.com/prashanthkumarjoshi/Amazon-Ecosystem/blob/main/Amazon_img.jpg">
+<div align="center">
+  <img src="https://github.com/prashanthkumarjoshi/Amazon-Ecosystem/blob/main/Amazon_img.jpg" width="1400" alt="Amazon Ecosystem ERD Diagram">
+  <p><em>Amazon Ecosystem: Entity-Relationship Diagram</em></p>
+</div>
 
 ## Project Overview
 
