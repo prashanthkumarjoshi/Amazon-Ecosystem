@@ -65,7 +65,7 @@ Each question below contains a collapsible dropdown with a description and a scr
 ### Q1. Top 10 Best-Selling Products by Revenue
 <details><summary><strong>Description</strong></summary>
 Identify top-selling products by total sales value.
-<br><strong>Query Output:</strong><br><img src="https://github.com/prashanthkumarjoshi/Amazon-Ecosystem/blob/main/Images/Q1.png" height="200">
+<br><strong>Query Output:</strong><br><img src="https://github.com/prashanthkumarjoshi/Amazon-Ecosystem/blob/main/Images/q1output.png" height="200">
 </details>
 
 ### Q2. Revenue Breakdown by Product Category
