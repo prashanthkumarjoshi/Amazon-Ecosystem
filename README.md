@@ -54,7 +54,7 @@ This project demonstrates data manipulation and business problem-solving through
 ---
 
 ## Entity-Relationship Diagram (ERD)
-*(https://github.com/prashanthkumarjoshi/Amazon-Ecosystem/blob/main/Images/ERD.png)*
+<img width="646" alt="image" src="https://github.com/prashanthkumarjoshi/Amazon-Ecosystem/blob/main/Images/ERD.png">
 
 ---
 
